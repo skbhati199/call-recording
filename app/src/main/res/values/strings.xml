@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call Recording</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="no_records_message">no records message</string>
+    <string name="list_erase_your_recordeed_call">List erase yout recorded call</string>
+</resources>
